@@ -136,5 +136,6 @@ This repository contains Python scripts I developed to solve various labs from P
   - [Broken brute-force protection, IP block](./Authentication%20Vulnerabilities/Broken%20brute-force%20protection,%20IP%20block)
   - [Username enumeration via account lock](./Authentication%20Vulnerabilities/Username%20enumeration%20via%20account%20lock)
   - [Brute-forcing a stay-logged-in cookie](./Authentication%20Vulnerabilities/Brute-forcing%20a%20stay-logged-in%20cookie)
+  - [Password reset poisoning via middleware](./Authentication%20Vulnerabilities/Password%20reset%20poisoning%20via%20middleware)
 
 </details>
